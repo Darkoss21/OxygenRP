@@ -1,0 +1,6 @@
+1. Editer le "js/config.js" pur Configurer votre LoadingScreen.
+2. Modifiez le "Index.html" Avec Notepad++ Pour le Traduire.
+3. Uploadez votre LeekLoad sur le FTP (Hostinger,...etc..)
+4. Mettez dans votre "Serveur.cfg" sur Garry's Mod  "sv_loadingurl 'https://www.tonsite.fr'"
+
+Et Votre Loading Screen Est Prêt ! Enjoy ! 
